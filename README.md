@@ -8,7 +8,7 @@ An advanced python SSH cracker and infector. Aimed to be simple to use, simple t
 Make sure you use paramiko for python3!
 
 ## How it works
-The tool loads a list of ips and tries to crack the ssh authentication protocol. If the creditentials match, the ip is stored in a txt file along with the username and password.)
+The tool loads a list of ips and tries to crack the ssh authentication protocol. If the creditentials match, the ip is stored in a txt file along with the username and password.
 
  The following parameters are configurable:
  
