@@ -1,0 +1,9 @@
+# default creditentials list
+root:root
+root:pass
+root:toor
+root:admin
+admin:admin
+admin:pass
+admin:toor
+admin:root
